@@ -46,7 +46,7 @@
     {
       "FullName": "System.Int32 Unity.Burst.Intrinsics.X86::DoGetCSRTrampoline()",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "0ef0809947c6cb93875ae7ac1e4996b8",
+      "ModuleHash": "efc707badf2f85830c9e093d8e2e8f24",
       "LinkName": "CDCA4A5193BE5947",
       "AssemblyDependencyIndices": [
         0,
@@ -56,7 +56,7 @@
     {
       "FullName": "System.Void Unity.Burst.Intrinsics.X86::DoSetCSRTrampoline(System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "36ace6ca50f113356b91008cccd8f132",
+      "ModuleHash": "1da9bb4346e42d8c020901903b126e7f",
       "LinkName": "801E9A000BB37B05",
       "AssemblyDependencyIndices": [
         0,
@@ -80,7 +80,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Dynamics.CollisionBroadphase_HybridSAP/UpdateShapesJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "7d48d3901e7908f706fba87288e526ae",
+      "ModuleHash": "7fd55826e457342ee5be1ec4f16f5514",
       "LinkName": "3F0C89729120742F",
       "AssemblyDependencyIndices": [
         2,
@@ -147,7 +147,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Collections.NativeListDisposeJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "de5ed9f5e0ad02be6facf8e39a5f81fc",
+      "ModuleHash": "4fa5eb9a4689d453ed383df2b59d2990",
       "LinkName": "8EB43C2383893029",
       "AssemblyDependencyIndices": [
         2,
@@ -187,7 +187,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Collections.LowLevel.Unsafe.UnsafeDisposeJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "8ad79c69513fd4d668e50aa1f37a9b36",
+      "ModuleHash": "52eaf9a97c20f5446df8ae08793d30f0",
       "LinkName": "BD9465D2FDB0302B",
       "AssemblyDependencyIndices": [
         2,
@@ -277,7 +277,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<VRC.Dynamics.CollisionBroadphase_HashGrid/CollisionsJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "ea49b84708ec29db558033bf5f3758df",
+      "ModuleHash": "2e726050892c4af6b349f07037c990f8",
       "LinkName": "34B4FBF44AE7BF02",
       "AssemblyDependencyIndices": [
         2,
