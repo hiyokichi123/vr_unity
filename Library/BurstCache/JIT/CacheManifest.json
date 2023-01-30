@@ -3,7 +3,7 @@
   "Assemblies": [
     {
       "FullName": "Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2022-12-29T16:31:06.7664376Z"
+      "LastWriteTime": "2023-01-27T09:06:45.9704303Z"
     },
     {
       "FullName": "mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
@@ -27,7 +27,7 @@
     },
     {
       "FullName": "Unity.Mathematics, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-      "LastWriteTime": "2022-12-29T16:31:07.8626843Z"
+      "LastWriteTime": "2023-01-27T09:06:49.0721222Z"
     },
     {
       "FullName": "System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
@@ -46,7 +46,7 @@
     {
       "FullName": "System.Int32 Unity.Burst.Intrinsics.X86::DoGetCSRTrampoline()",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "0ef0809947c6cb93875ae7ac1e4996b8",
+      "ModuleHash": "c86c474616d3a682f0acc29cedf78dcd",
       "LinkName": "CDCA4A5193BE5947",
       "AssemblyDependencyIndices": [
         0,
@@ -56,7 +56,7 @@
     {
       "FullName": "System.Void Unity.Burst.Intrinsics.X86::DoSetCSRTrampoline(System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "36ace6ca50f113356b91008cccd8f132",
+      "ModuleHash": "05b8b2ab545391ad963ad4df9f2954fd",
       "LinkName": "801E9A000BB37B05",
       "AssemblyDependencyIndices": [
         0,
@@ -64,9 +64,23 @@
       ]
     },
     {
+      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Dynamics.CollisionBroadphase_HashGrid/UpdateShapesJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 11834165633931345063,
+      "ModuleHash": "313c618d0967719992824c6fb6a14e94",
+      "LinkName": "BFEDD4F5CACCBDB6",
+      "AssemblyDependencyIndices": [
+        2,
+        3,
+        4,
+        1,
+        5,
+        6
+      ]
+    },
+    {
       "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Dynamics.CollisionBroadphase_HybridSAP/UpdateShapesJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "5f549ddda5cc739b6ea92f839a22b011",
+      "ModuleHash": "e3844484189ab0518e805da87e899b20",
       "LinkName": "3F0C89729120742F",
       "AssemblyDependencyIndices": [
         2,
@@ -79,20 +93,6 @@
         8,
         0,
         9
-      ]
-    },
-    {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Dynamics.CollisionBroadphase_HashGrid/UpdateShapesJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
-      "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "4e41fcadda519e84116488b90c359e42",
-      "LinkName": "BFEDD4F5CACCBDB6",
-      "AssemblyDependencyIndices": [
-        2,
-        3,
-        4,
-        1,
-        5,
-        6
       ]
     },
     {
@@ -121,7 +121,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Dynamics.CollisionBroadphase_HybridSAP/CollisionEventsJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "fec76ce8c80fc1c7a0756fbfe05ed933",
+      "ModuleHash": "1202de372d50d3db8d0e415a1a2de4fd",
       "LinkName": "666358E2B713CBAA",
       "AssemblyDependencyIndices": [
         2,
@@ -147,7 +147,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Collections.NativeListDisposeJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "de5ed9f5e0ad02be6facf8e39a5f81fc",
+      "ModuleHash": "45dd6b1d650c932b7e57e85fcc163e53",
       "LinkName": "8EB43C2383893029",
       "AssemblyDependencyIndices": [
         2,
@@ -187,7 +187,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Collections.LowLevel.Unsafe.UnsafeDisposeJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "8ad79c69513fd4d668e50aa1f37a9b36",
+      "ModuleHash": "199467a6847a7913a0b0248bcab89a89",
       "LinkName": "BD9465D2FDB0302B",
       "AssemblyDependencyIndices": [
         2,
@@ -263,7 +263,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<VRC.Dynamics.CollisionBroadphase_HashGrid/MoveShapesJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "b6e90b8e4aff3cbeb23fd126b18d56f2",
+      "ModuleHash": "1cd488c94b97b27fbf03d6a1c0a9239f",
       "LinkName": "DCA4D8A9D7415B19",
       "AssemblyDependencyIndices": [
         2,
@@ -277,7 +277,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<VRC.Dynamics.CollisionBroadphase_HashGrid/CollisionsJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "19256df8fba3cec73437ab9608c1086b",
+      "ModuleHash": "db467de58e3aadbe82140884b11f9a23",
       "LinkName": "34B4FBF44AE7BF02",
       "AssemblyDependencyIndices": [
         2,
@@ -294,7 +294,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<VRC.Dynamics.CollisionBroadphase_HybridSAP/MoveShapesJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "02bf156787c264c91cca91f6c9baa1d2",
+      "ModuleHash": "5a0f30cef0b5279c10089ec4021d0886",
       "LinkName": "9D2A565C5B5CB1B9",
       "AssemblyDependencyIndices": [
         2,
@@ -308,7 +308,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<VRC.Dynamics.CollisionBroadphase_HybridSAP/UpdateGridCellsJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "a10866216935bc6811ebbfc375bfe79f",
+      "ModuleHash": "7ec5c48c5bd05b5e855aa20160be9b0a",
       "LinkName": "8874AF149E0B7CD6",
       "AssemblyDependencyIndices": [
         2,
@@ -324,7 +324,7 @@
     {
       "FullName": "System.Void Unity.Jobs.IJobParallelForExtensions/ParallelForJobStruct`1<VRC.Dynamics.PhysBoneManager/PhysBoneJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "f1ecea11c28fc860d1b00c95e4de1640",
+      "ModuleHash": "d8cde68c15e7693d0c6482f981f635c5",
       "LinkName": "AD3D69645205EEF6",
       "AssemblyDependencyIndices": [
         2,
@@ -365,7 +365,7 @@
     {
       "FullName": "System.Void UnityEngine.Jobs.IJobParallelForTransformExtensions/TransformParallelForLoopStruct`1<VRC.Dynamics.PhysBoneManager/ReadBoneJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "8a61c2515d1e1ad5beecaa301ed5786e",
+      "ModuleHash": "10fa83738e692f82a904f0073c557a26",
       "LinkName": "495619C570BD7F0A",
       "AssemblyDependencyIndices": [
         2,
@@ -378,7 +378,7 @@
     {
       "FullName": "System.Void UnityEngine.Jobs.IJobParallelForTransformExtensions/TransformParallelForLoopStruct`1<VRC.Dynamics.PhysBoneManager/WriteBoneJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "ab9efc381cf5fc6ed96087128054c682",
+      "ModuleHash": "450eccb5e2504c1b5d0ea7fec6e39744",
       "LinkName": "F6DB1DA3EA2A62C1",
       "AssemblyDependencyIndices": [
         2,
