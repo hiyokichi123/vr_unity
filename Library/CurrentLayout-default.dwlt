@@ -14,16 +14,26 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
+    x: 1375.3334
+    y: 90
+    width: 1396.6667
+    height: 1098.6667
+=======
     x: 0
     y: 43.2
     width: 1536
     height: 772.8
+<<<<<<< HEAD
+=======
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_ShowMode: 4
   m_Title: Console
   m_RootView: {fileID: 7}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 1
+  m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -66,12 +76,30 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1536
     height: 723
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
   controlID: 103
+=======
+<<<<<<< HEAD
+    width: 1397
+    height: 1049
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 75
+=======
+    width: 1536
+    height: 723
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
+  vertical: 0
+  controlID: 100
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -87,12 +115,28 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1094
     y: 0
     width: 442
     height: 723
+=======
+<<<<<<< HEAD
+    x: 953
+    y: 0
+    width: 444
+    height: 1049
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
+=======
+    x: 1094
+    y: 0
+    width: 442
+    height: 723
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> remotes/origin/unity_1
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -115,8 +159,18 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 323
     height: 452
+=======
+<<<<<<< HEAD
+    width: 318
+    height: 778
+=======
+    width: 323
+    height: 452
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
@@ -140,8 +194,18 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 452
     width: 1094
+=======
+<<<<<<< HEAD
+    y: 778
+    width: 953
+=======
+    y: 452
+    width: 1094
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     height: 271
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
@@ -171,9 +235,18 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    width: 1397
+    height: 1099
+  m_MinSize: {x: 875, y: 542}
+=======
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     width: 1536
     height: 773
   m_MinSize: {x: 875, y: 300}
+>>>>>>> remotes/origin/unity_1
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &8
 MonoBehaviour:
@@ -192,7 +265,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1536
+=======
+<<<<<<< HEAD
+    width: 1397
+=======
+    width: 1536
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -213,8 +294,18 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 753
     width: 1536
+=======
+<<<<<<< HEAD
+    y: 1079
+    width: 1397
+=======
+    y: 753
+    width: 1536
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -237,12 +328,30 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1094
     height: 723
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
   controlID: 37
+=======
+<<<<<<< HEAD
+    width: 953
+    height: 1049
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 76
+=======
+    width: 1094
+    height: 723
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 10001, y: 14042}
+  vertical: 1
+  controlID: 101
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -262,12 +371,30 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1094
     height: 452
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 38
+=======
+<<<<<<< HEAD
+    width: 953
+    height: 778
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 77
+=======
+    width: 1094
+    height: 452
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 102
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -283,10 +410,24 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 323
     y: 0
     width: 771
     height: 452
+=======
+<<<<<<< HEAD
+    x: 318
+    y: 0
+    width: 635
+    height: 778
+=======
+    x: 323
+    y: 0
+    width: 771
+    height: 452
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 18}
@@ -313,7 +454,11 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: "\u30A2\u30CB\u30E1\u30FC\u30B7\u30E7\u30F3"
+<<<<<<< HEAD
     m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000,
+=======
+    m_Image: {fileID: -3237396543322336831, guid: 0000000000000000d000000000000000,
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       type: 0}
     m_Tooltip: 
   m_Pos:
@@ -342,15 +487,19 @@ MonoBehaviour:
   m_MaxSize: {x: 2048, y: 2048}
   m_TitleContent:
     m_Text: "\u30A2\u30BB\u30C3\u30C8\u30B9\u30C8\u30A2"
+<<<<<<< HEAD
     m_Image: {fileID: -8693916549880196297, guid: 0000000000000000d000000000000000,
+=======
+    m_Image: {fileID: -7444545952099596278, guid: 0000000000000000d000000000000000,
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 468
-    y: 181
-    width: 973
-    height: 501
+    x: 293.33334
+    y: 72.66667
+    width: 582
+    height: 248
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &15
 MonoBehaviour:
@@ -368,14 +517,27 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: "\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8"
+<<<<<<< HEAD
     m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000,
+=======
+    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000,
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+    x: 1375.3334
+    y: 898
+    width: 952
+=======
     x: 0
     y: 525.60004
     width: 1093
+<<<<<<< HEAD
+=======
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     height: 250
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
@@ -391,6 +553,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -398,13 +561,44 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\keiri\\Documents\\\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC\\vr_unity"
+=======
+<<<<<<< HEAD
+    - Assets/texture
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/texture
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\mamed\Downloads\sagyouyou\vr_unity
+=======
+    - Assets
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: "C:\\Users\\keiri\\Documents\\\u65B0\u3057\u3044\u30D5\u30A9\u30EB\u30C0\u30FC\\vr_unity"
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: d6460000
     m_LastClickedID: 18134
     m_ExpandedIDs: 00000000d646000000ca9a3b
+=======
+<<<<<<< HEAD
+    m_SelectedIDs: 2a480000
+    m_LastClickedID: 18474
+    m_ExpandedIDs: 00000000f046000000ca9a3b
+=======
+    m_SelectedIDs: d6460000
+    m_LastClickedID: 18134
+    m_ExpandedIDs: 00000000d646000000ca9a3b
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -432,7 +626,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000d6460000
+=======
+<<<<<<< HEAD
+    m_ExpandedIDs: 00000000f0460000
+=======
+    m_ExpandedIDs: 00000000d6460000
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,15 +706,32 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: "\u30A4\u30F3\u30B9\u30DA\u30AF\u30BF\u30FC"
+<<<<<<< HEAD
     m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000,
+=======
+    m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000,
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    x: 2328.6667
+    y: 120
+    width: 442
+    height: 1028
+=======
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     x: 1094.4
     y: 73.6
     width: 441
     height: 702
+<<<<<<< HEAD
+=======
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_ViewDataDictionary: {fileID: 0}
   m_OpenAddComponentMenu: 0
   m_ObjectsLockedBeforeSerialization: []
@@ -542,20 +761,42 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: "\u30D2\u30A8\u30E9\u30EB\u30AD\u30FC"
+<<<<<<< HEAD
     m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000,
+=======
+    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000,
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+    x: 1375.3334
+    y: 120
+    width: 317
+    height: 757
+=======
     x: 0
     y: 73.6
     width: 322
     height: 431
+<<<<<<< HEAD
+=======
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 
+=======
+<<<<<<< HEAD
+      m_SelectedIDs: 48f3ffff
+=======
+      m_SelectedIDs: 
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       m_LastClickedID: 0
       m_ExpandedIDs: 18fbffff
       m_RenameOverlay:
@@ -597,15 +838,32 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: "\u30B7\u30FC\u30F3"
+<<<<<<< HEAD
     m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000,
+=======
+    m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000,
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    x: 1693.3334
+    y: 120
+    width: 633
+    height: 757
+=======
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     x: 323.2
     y: 73.6
     width: 769
     height: 431
+<<<<<<< HEAD
+=======
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 41518f51b0d527b4dac1f6bb3883a731
@@ -617,9 +875,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: -1.8689857, y: 1.1281285, z: -3.1448097}
     speed: 2
     m_Value: {x: -1.8689857, y: 1.1281285, z: -3.1448097}
+=======
+    m_Target: {x: -8.717307, y: 363.47647, z: 705.12836}
+    speed: 2
+    m_Value: {x: -8.717307, y: 363.47647, z: 705.12836}
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -665,6 +929,7 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
+<<<<<<< HEAD
     m_Target: {x: 0.013098199, y: 0.94994867, z: 0.040197894, w: -0.30953848}
     speed: 2
     m_Value: {x: 0.012692002, y: 0.9495407, z: 0.038753856, w: -0.31098187}
@@ -672,6 +937,19 @@ MonoBehaviour:
     m_Target: 5.3349075
     speed: 2
     m_Value: 5.3349075
+=======
+    m_Target: {x: 0.18158892, y: 0.7095398, z: -0.19775014, w: 0.6515246}
+    speed: 2
+    m_Value: {x: 0.18218039, y: 0.7075783, z: -0.19720344, w: 0.6536468}
+  m_Size:
+    m_Target: 0.97402924
+    speed: 2
+<<<<<<< HEAD
+    m_Value: 0.67402923
+=======
+    m_Value: 6.42239
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -689,7 +967,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0.033312123, y: -0.95913047, z: 0.25033817, w: 0.12763083}
+  m_LastSceneViewRotation: {x: 0.086013146, y: 0.87655115, z: -0.1706784, w: 0.441737}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -712,15 +990,32 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: "\u30B2\u30FC\u30E0"
+<<<<<<< HEAD
     m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000,
+=======
+    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000,
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    x: 293.33334
+    y: 72.66667
+    width: 582
+    height: 436
+=======
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     x: 323.2
     y: 73.6
     width: 769
     height: 431
+<<<<<<< HEAD
+=======
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -730,7 +1025,15 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 769, y: 410}
+=======
+<<<<<<< HEAD
+  m_TargetSize: {x: 582, y: 415}
+=======
+  m_TargetSize: {x: 769, y: 410}
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -745,10 +1048,24 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -384.5
     m_HBaseRangeMax: 384.5
     m_VBaseRangeMin: -215.5
     m_VBaseRangeMax: 215.5
+=======
+<<<<<<< HEAD
+    m_HBaseRangeMin: -291
+    m_HBaseRangeMax: 291
+    m_VBaseRangeMin: -218
+    m_VBaseRangeMax: 218
+=======
+    m_HBaseRangeMin: -307.6
+    m_HBaseRangeMax: 307.6
+    m_VBaseRangeMin: -164
+    m_VBaseRangeMax: 164
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -765,17 +1082,34 @@ MonoBehaviour:
     m_DrawArea:
       serializedVersion: 2
       x: 0
+<<<<<<< HEAD
       y: 0
       width: 769
       height: 431
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 384.5, y: 215.5}
+=======
+<<<<<<< HEAD
+      y: 0
+      width: 582
+      height: 436
+    m_Scale: {x: 1.3528798, y: 1.3528798}
+    m_Translation: {x: 291, y: 218.00002}
+=======
+      y: 21
+      width: 769
+      height: 410
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 384.5, y: 205}
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -384.5
       y: -215.5
       width: 769
@@ -783,6 +1117,25 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 769, y: 431}
+=======
+<<<<<<< HEAD
+      x: -215.09673
+      y: -161.13776
+      width: 430.19345
+      height: 322.2755
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 582, y: 436}
+=======
+      x: -384.5
+      y: -205
+      width: 769
+      height: 410
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 961.25, y: 538.75}
+>>>>>>> remotes/origin/unity_1
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -804,13 +1157,17 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: "\u30B3\u30F3\u30BD\u30FC\u30EB"
+<<<<<<< HEAD
     m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000,
+=======
+    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000,
+>>>>>>> 5d6836c1d9403259f9ef313a602ab8786ac50fe9
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 741
-    width: 1366
-    height: 258
+    x: 1430.6666
+    y: 952.6667
+    width: 952
+    height: 198
   m_ViewDataDictionary: {fileID: 0}
