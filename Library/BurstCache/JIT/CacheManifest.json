@@ -119,6 +119,18 @@
       ]
     },
     {
+      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Collections.NativeHashMapDisposeJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
+      "ModuleOptionsHash": 11834165633931345063,
+      "ModuleHash": "0d8d171eea3dce85b4ffa494067250aa",
+      "LinkName": "8D1796CF60100915",
+      "AssemblyDependencyIndices": [
+        2,
+        5,
+        4,
+        1
+      ]
+    },
+    {
       "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Dynamics.CollisionBroadphase_HybridSAP/CollisionEventsJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
       "ModuleOptionsHash": 11834165633931345063,
       "ModuleHash": "1202de372d50d3db8d0e415a1a2de4fd",
@@ -130,18 +142,6 @@
         1,
         5,
         6
-      ]
-    },
-    {
-      "FullName": "System.Void Unity.Jobs.IJobExtensions/JobStruct`1<VRC.Collections.NativeHashMapDisposeJob>::Execute(T&,System.IntPtr,System.IntPtr,Unity.Jobs.LowLevel.Unsafe.JobRanges&,System.Int32)",
-      "ModuleOptionsHash": 11834165633931345063,
-      "ModuleHash": "0d8d171eea3dce85b4ffa494067250aa",
-      "LinkName": "8D1796CF60100915",
-      "AssemblyDependencyIndices": [
-        2,
-        5,
-        4,
-        1
       ]
     },
     {
